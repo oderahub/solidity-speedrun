@@ -571,6 +571,6 @@ Found a broken link or want to suggest improvements? Please create an issue or p
 ---
 
 **Last Updated**: November 2024  
-**Maintained by**: Chidera
+**Maintained by**: Chidera Okere
 
 ⭐ Star this repo if you found it helpful!
