@@ -570,7 +570,8 @@ Found a broken link or want to suggest improvements? Please create an issue or p
 
 ---
 
-**Last Updated**: November 2024  
+**Last Updated**: November 2025
+
 **Maintained by**: Chidera Okere
 
 ⭐ Star this repo if you found it helpful!
